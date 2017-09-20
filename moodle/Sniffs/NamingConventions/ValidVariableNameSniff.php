@@ -35,6 +35,7 @@ class moodle_Sniffs_NamingConventions_ValidVariableNameSniff
             '_SERVER', '_GET', '_POST', '_FILES', '_REQUEST', '_SESSION', '_ENV',
             '_COOKIE', '_HTTP_RAW_POST_DATA', 'ACCESSLIB_PRIVATE', 'ME',
             'CONDITIONLIB_PRIVATE', 'FILTERLIB_PRIVATE', 'SCRIPT', 'MNET_REMOTE_CLIENT',
+            'BIGBLUEBUTTONBN_CFG',
             'http_response_header');
 
     /**
